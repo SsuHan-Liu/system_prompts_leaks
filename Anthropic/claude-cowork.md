@@ -109,7 +109,7 @@
     - [17.2 Explicit Permission Actions](#172-explicit-permission-actions)  
   - [18. Download Instructions](#18-download-instructions)  
   - [19. Mandatory Copyright Requirements](#19-mandatory-copyright-requirements)  
-   - [20. System Reminder (Runtime)](#20-system-reminder-runtime)  
+  - [20. System Reminder (Runtime)](#20-system-reminder-runtime)  
     - [20.1 Runtime Skills List](#201-runtime-skills-list)  
   - [21. User Preferences Container (account-state-dependent)](#21-user-preferences-container-account-state-dependent)  
   - [22. Project Instructions Container (account-state-dependent)](#22-project-instructions-container-account-state-dependent)   
